@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_41
+Built-By: ADOBENET\rmuntean
+Created-By: Apache Maven
+Archiver-Version: Plexus Archiver
+
+Name: META-INF/maven/com.itsolut.mantis/com.itsolut.mantis_feature/pom
+ .xml
+SHA1-Digest: sElz7RkYH/Us1r6QedJ404wEb1w=
+
+Name: feature.xml
+SHA1-Digest: hF549sEotGR+uQB0JAdZcCmPqPQ=
+
+Name: META-INF/maven/com.itsolut.mantis/com.itsolut.mantis_feature/pom
+ .properties
+SHA1-Digest: X5+W7/F6KkXTcIoQ7Dc05r4NlnM=
+

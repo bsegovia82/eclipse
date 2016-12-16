@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='update site: http://www.pramati.com/downloads/eclipse/updates/' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1466098882718'/>
+    <property name='eclipse.p2.force.threading' value='true'/>
+    <property name='site.checksum' value='2965430523'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='8'>
+    <artifact classifier='osgi.bundle' id='com.pramati.jst.server' version='1.0.1'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/plugins/com.pramati.jst.server_1.0.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.pramati.eclipse.feature' version='2.2.0'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/features/com.pramati.eclipse.feature_2.2.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.pramati.jst.server' version='2.1.0'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/plugins/com.pramati.jst.server_2.1.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.pramati.jst.server' version='2.2.0'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/plugins/com.pramati.jst.server_2.2.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.pramati.eclipse.feature' version='2.0.0'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/features/com.pramati.eclipse.feature_2.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.pramati.eclipse.feature' version='1.0.1'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/features/com.pramati.eclipse.feature_1.0.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.pramati.jst.server' version='2.0.0'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/plugins/com.pramati.jst.server_2.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.pramati.eclipse.feature' version='2.1.0'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://www.pramati.com/downloads/eclipse/updates/features/com.pramati.eclipse.feature_2.1.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

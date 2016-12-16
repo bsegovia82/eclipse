@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.projectusus.autotestsuite"
+      label="Project Usus Multi-Project JUnit Runner"
+      version="0.7.8.201510261332"
+      provider-name="projectusus.org">
+
+   <description url="http://www.projectusus.org">
+      Run all JUnit tests in the selected projects or a subtree of the project dependency tree.
+   </description>
+
+   <copyright>
+      Copyright (c) 2010 by projectusus.org contributors
+   </copyright>
+
+   <license url="http://www.eclipse.org/legal/epl-v10.html">
+      This software is made available by projectusus.org contributors
+under the terms of the Eclipse Public License, version 1.0 (EPL).
+A copy of the license text is provided with the software, or
+can be found at http://www.eclipse.org/legal/epl-v10.html.
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.ui"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.jdt.launching"/>
+      <import plugin="org.eclipse.jdt.junit"/>
+      <import plugin="org.eclipse.jdt.ui"/>
+      <import plugin="org.eclipse.jdt.debug.ui"/>
+      <import plugin="org.eclipse.debug.core"/>
+      <import plugin="org.eclipse.debug.ui"/>
+      <import plugin="org.eclipse.core.expressions"/>
+   </requires>
+
+   <plugin
+         id="org.projectusus.autotestsuite.ui"
+         download-size="871"
+         install-size="1035"
+         version="0.7.8.201510261332"
+         unpack="false"/>
+
+   <plugin
+         id="org.projectusus.jfeet"
+         download-size="10"
+         install-size="14"
+         version="0.1.0.201105131102"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: de.unkrig.cs-contrib.branding
+Bundle-Name: cs-contrib Branding
+Bundle-Version: 1.2.11.201602191424
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Vendor: Arno Unkrig
+
+

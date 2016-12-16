@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jspresso.contrib.sjsplugin.spock.feature"
+      label="Jspresso Developer Studio Spock tests feature"
+      version="3.0.0.201606050903"
+      provider-name="Maxime HAMM"
+      plugin="org.jspresso.contrib.sjsplugin.brand">
+
+   <description url="http://www.jspresso.org">
+      Jspresso Developer Studio for Eclipse - Spock tests plugin
+   </description>
+
+   <copyright url="http://www.jspresso.org/copyright">
+      Copyright (c) 2013 Maxime HAMM. All rights reserved.
+This file is part of Jspresso Developer Studio
+   </copyright>
+
+   <license url="http://www.jspresso.org/license">
+      Jspresso Developer Studio is free software: you can redistribute
+it and/or modify it under the terms of the GNU  
+General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or 
+(at your option) any later version. 
+Jspresso Developer Studio is distributed in the hope that it will 
+be useful, but WITHOUT ANY WARRANTY; without even the 
+implied warranty of MERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE.  
+Seethe GNU General Public License for more details.
+You should have received a copy of the GNU General
+Public License along with Jspresso Developer Studio.  
+If not, see &lt;http://www.gnu.org/licenses/&gt;.
+   </license>
+
+   <url>
+      <update label="Jspresso" url="http://www.jspresso.org"/>
+      <discovery label="Jspresso" url="http://www.jspresso.org"/>
+   </url>
+
+   <requires>
+      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.jdt.core"/>
+      <import plugin="org.eclipse.jface.text" version="3.6.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.ui.views.properties.tabbed" version="3.5.100" match="greaterOrEqual"/>
+      <import plugin="org.codehaus.groovy.eclipse.codeassist.completion" version="2.6.1" match="greaterOrEqual"/>
+      <import plugin="org.codehaus.groovy.eclipse.codebrowsing" version="2.6.1" match="greaterOrEqual"/>
+      <import plugin="org.codehaus.groovy.eclipse.ui" version="2.6.1" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.jdt.groovy.core" version="2.6.1" match="greaterOrEqual"/>
+      <import plugin="org.codehaus.groovy"/>
+      <import plugin="org.eclipse.jdt.junit"/>
+   </requires>
+
+   <plugin
+         id="org.jspresso.contrib.sjsplugin.spock"
+         download-size="139"
+         install-size="174"
+         version="3.0.0.201606050903"
+         unpack="false"/>
+
+   <plugin
+         id="org.jspresso.contrib.sjsplugin.brand"
+         download-size="5"
+         install-size="4"
+         version="3.0.0.201606050903"/>
+
+</feature>

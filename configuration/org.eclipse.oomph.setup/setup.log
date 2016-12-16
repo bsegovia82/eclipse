@@ -1,0 +1,1221 @@
+[2016-05-19 10:44:23] Executing startup tasks
+[2016-05-19 10:44:24] Product self.product.version
+[2016-05-19 10:44:24] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-05-19 10:44:24] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-05-19 10:44:24] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-05-19 10:44:24] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-05-19 10:44:24] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-05-19 10:44:24] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-05-19 10:44:24] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-05-19 10:44:24] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-05-19 10:44:24] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-05-19 10:44:25] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-05-19 10:44:25] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-05-19 10:44:25] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-05-19 10:44:25] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-05-19 10:44:25] 
+[2016-06-20 08:59:18] Executing startup tasks
+[2016-06-20 08:59:20] Product self.product.version
+[2016-06-20 08:59:20] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-06-20 08:59:20] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-06-20 08:59:20] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-06-20 08:59:21] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-06-20 08:59:21] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-06-20 08:59:21] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-06-20 08:59:21] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-06-20 08:59:22] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-06-20 08:59:22] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-06-20 08:59:22] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-06-20 08:59:22] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-06-20 08:59:23] 
+[2016-06-20 12:08:14] Executing startup tasks
+[2016-06-20 12:08:15] Product self.product.version
+[2016-06-20 12:08:15] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-06-20 12:08:15] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-06-20 12:08:15] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-06-20 12:08:15] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-06-20 12:08:15] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-06-20 12:08:15] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-06-20 12:08:15] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-06-20 12:08:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-06-20 12:08:16] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-06-20 12:08:17] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-06-20 12:08:17] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-06-20 12:08:17] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-06-20 12:08:17] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-06-20 12:08:18] 
+[2016-07-18 15:33:41] Executing startup tasks
+[2016-07-18 15:33:41] Product self.product.version
+[2016-07-18 15:33:41] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-18 15:33:41] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-18 15:33:41] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-18 15:33:42] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-07-18 15:33:42] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-07-18 15:33:42] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-07-18 15:33:42] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-07-18 15:33:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-07-18 15:33:45] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-07-18 15:33:45] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-07-18 15:33:45] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-07-18 15:33:45] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-07-18 15:33:45] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-07-18 15:33:45] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-07-18 15:33:46] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-07-18 15:33:46] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-07-18 15:33:46] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-07-18 15:33:46] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-07-18 15:33:46] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-07-18 15:33:46] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-07-18 15:33:46] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-07-18 15:33:46] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-07-18 15:33:46] 
+[2016-07-19 12:31:18] Executing startup tasks
+[2016-07-19 12:31:19] Product self.product.version
+[2016-07-19 12:31:19] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-19 12:31:19] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-19 12:31:19] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-19 12:31:19] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-07-19 12:31:19] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-07-19 12:31:19] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-07-19 12:31:19] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-07-19 12:31:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-07-19 12:31:21] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-07-19 12:31:21] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-07-19 12:31:21] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-07-19 12:31:22] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-07-19 12:31:22] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-07-19 12:31:22] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-07-19 12:31:22] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-07-19 12:31:22] 
+[2016-07-27 12:36:16] Executing startup tasks
+[2016-07-27 12:36:22] Product self.product.version
+[2016-07-27 12:36:22] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-27 12:36:22] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-27 12:36:22] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-07-27 12:36:22] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-07-27 12:36:22] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-07-27 12:36:22] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-07-27 12:36:22] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-07-27 12:36:23] 
+[2016-08-01 14:01:57] Executing startup tasks
+[2016-08-01 14:01:58] Product self.product.version
+[2016-08-01 14:01:58] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-01 14:01:58] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-01 14:01:58] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-08-01 14:01:58] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-08-01 14:01:59] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-08-01 14:01:59] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-08-01 14:01:59] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-08-01 14:01:59] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-08-01 14:01:59] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-08-01 14:01:59] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-08-01 14:01:59] 
+[2016-08-06 12:21:06] Executing startup tasks
+[2016-08-06 12:21:07] Product self.product.version
+[2016-08-06 12:21:07] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-06 12:21:07] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-06 12:21:07] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-06 12:21:07] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-08-06 12:21:07] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-08-06 12:21:07] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-08-06 12:21:07] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-08-06 12:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-08-06 12:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-08-06 12:21:08] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-08-06 12:21:08] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-08-06 12:21:08] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-08-06 12:21:08] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-08-06 12:21:08] 
+[2016-08-22 10:21:04] Executing startup tasks
+[2016-08-22 10:21:05] Product self.product.version
+[2016-08-22 10:21:05] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-22 10:21:05] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-22 10:21:05] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-22 10:21:05] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-08-22 10:21:05] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-08-22 10:21:05] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-08-22 10:21:05] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-08-22 10:21:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-08-22 10:21:07] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-08-22 10:21:07] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-08-22 10:21:08] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-08-22 10:21:08] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-08-22 10:21:08] 
+[2016-08-31 10:32:02] Executing startup tasks
+[2016-08-31 10:32:04] Product self.product.version
+[2016-08-31 10:32:04] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-31 10:32:04] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-31 10:32:04] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-31 10:32:04] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-08-31 10:32:04] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-08-31 10:32:04] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-08-31 10:32:04] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-08-31 10:32:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-08-31 10:32:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-31 10:32:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-08-31 10:32:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-08-31 10:32:06] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-08-31 10:32:06] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-31 10:32:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-08-31 10:32:07] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-08-31 10:32:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-08-31 10:32:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-08-31 10:32:09] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-08-31 10:32:10] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-08-31 10:32:10] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-08-31 10:32:10] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-08-31 10:32:10] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-08-31 10:32:11] 
+[2016-08-31 14:08:42] Executing startup tasks
+[2016-08-31 14:08:43] Product self.product.version
+[2016-08-31 14:08:43] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-31 14:08:43] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-31 14:08:43] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-08-31 14:08:43] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-08-31 14:08:43] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-08-31 14:08:43] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-08-31 14:08:43] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-08-31 14:08:43] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-08-31 14:08:46] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-31 14:08:46] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-08-31 14:08:47] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-08-31 14:08:47] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-08-31 14:08:47] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-08-31 14:08:47] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-08-31 14:08:47] 
+[2016-09-20 10:38:42] Executing startup tasks
+[2016-09-20 10:38:49] Product self.product.version
+[2016-09-20 10:38:49] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-20 10:38:49] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-20 10:38:49] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-20 10:38:49] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-09-20 10:38:49] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-09-20 10:38:50] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-09-20 10:38:50] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-09-20 10:38:50] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-09-20 10:38:51] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-20 10:38:52] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-09-20 10:38:52] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-09-20 10:38:52] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-09-20 10:38:53] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-20 10:38:53] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-09-20 10:38:54] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-09-20 10:38:55] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-09-20 10:38:55] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-09-20 10:38:55] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-09-20 10:38:55] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-09-20 10:38:55] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-09-20 10:38:55] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-09-20 10:38:55] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-09-20 10:38:56] 
+[2016-09-24 14:53:01] Executing startup tasks
+[2016-09-24 14:53:03] Product self.product.version
+[2016-09-24 14:53:03] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-24 14:53:03] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-24 14:53:03] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-24 14:53:03] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-09-24 14:53:03] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-09-24 14:53:03] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-09-24 14:53:03] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-09-24 14:53:04] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-09-24 14:53:04] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-24 14:53:04] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-09-24 14:53:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-09-24 14:53:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-09-24 14:53:06] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-24 14:53:06] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-09-24 14:53:07] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-09-24 14:53:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-09-24 14:53:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-09-24 14:53:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-09-24 14:53:08] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-09-24 14:53:08] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-09-24 14:53:08] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-09-24 14:53:08] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-09-24 14:53:08] 
+[2016-09-30 15:41:25] Executing startup tasks
+[2016-09-30 15:41:26] Product self.product.version
+[2016-09-30 15:41:26] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-30 15:41:26] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-30 15:41:26] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-30 15:41:26] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-09-30 15:41:26] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-09-30 15:41:26] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-09-30 15:41:26] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-09-30 15:41:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-09-30 15:41:28] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-09-30 15:41:28] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-09-30 15:41:28] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-09-30 15:41:28] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-09-30 15:41:28] 
+[2016-09-30 15:44:23] Executing startup tasks
+[2016-09-30 15:44:25] Product self.product.version
+[2016-09-30 15:44:25] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-30 15:44:25] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-30 15:44:25] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-09-30 15:44:25] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-09-30 15:44:25] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-09-30 15:44:26] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-09-30 15:44:26] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-09-30 15:44:26] 
+[2016-10-01 11:07:59] Executing startup tasks
+[2016-10-01 11:08:01] Product self.product.version
+[2016-10-01 11:08:01] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-01 11:08:01] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-01 11:08:01] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-01 11:08:01] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-01 11:08:01] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-01 11:08:01] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-01 11:08:01] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-01 11:08:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-01 11:08:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-01 11:08:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-01 11:08:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-01 11:08:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-01 11:08:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-01 11:08:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-01 11:08:11] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-01 11:08:11] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-01 11:08:11] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-01 11:08:12] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-01 11:08:12] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-01 11:08:12] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-01 11:08:12] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-01 11:08:12] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-01 11:08:16] 
+[2016-10-04 17:48:08] Executing startup tasks
+[2016-10-04 17:48:11] Product self.product.version
+[2016-10-04 17:48:11] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-04 17:48:11] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-04 17:48:11] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-04 17:48:11] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-04 17:48:11] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-04 17:48:11] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-04 17:48:11] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-04 17:48:11] 
+[2016-10-06 09:31:52] Executing startup tasks
+[2016-10-06 09:31:55] Product self.product.version
+[2016-10-06 09:31:55] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-06 09:31:55] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-06 09:31:55] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-06 09:31:55] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-06 09:31:56] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-06 09:31:56] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-06 09:31:57] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-06 09:31:57] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-06 09:31:57] 
+[2016-10-10 11:04:52] Executing startup tasks
+[2016-10-10 11:04:56] Product self.product.version
+[2016-10-10 11:04:56] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-10 11:04:56] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-10 11:04:56] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-10 11:04:56] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-10 11:04:57] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-10 11:04:57] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-10 11:04:57] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-10 11:04:57] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-10 11:04:57] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-10 11:04:57] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-10 11:04:57] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-10 11:04:57] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-10 11:04:57] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-10 11:04:57] 
+[2016-10-11 15:25:37] Executing startup tasks
+[2016-10-11 15:25:39] Product self.product.version
+[2016-10-11 15:25:39] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-11 15:25:39] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-11 15:25:39] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-11 15:25:40] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-11 15:25:42] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-11 15:25:42] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-11 15:25:42] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-11 15:25:42] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-11 15:25:43] 
+[2016-10-25 20:33:39] Executing startup tasks
+[2016-10-25 20:33:46] Product self.product.version
+[2016-10-25 20:33:46] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-25 20:33:46] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-25 20:33:46] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-25 20:33:46] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-25 20:33:46] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-25 20:33:47] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-25 20:33:47] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-25 20:33:48] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-25 20:33:48] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-25 20:33:48] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-25 20:33:49] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-25 20:33:49] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-25 20:33:50] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-25 20:33:50] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-25 20:33:51] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-25 20:33:52] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-25 20:33:52] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-25 20:33:52] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-25 20:33:53] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-25 20:33:53] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-25 20:33:53] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-25 20:33:53] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-25 20:33:54] 
+[2016-10-27 08:53:04] Executing startup tasks
+[2016-10-27 08:53:11] Product self.product.version
+[2016-10-27 08:53:11] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-27 08:53:11] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-27 08:53:11] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-27 08:53:13] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-27 08:53:19] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-27 08:53:19] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-27 08:53:19] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-27 08:53:19] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-27 08:53:20] 
+[2016-10-27 18:48:59] Executing startup tasks
+[2016-10-27 18:49:04] Product self.product.version
+[2016-10-27 18:49:04] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-27 18:49:04] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-27 18:49:04] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-10-27 18:49:04] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-10-27 18:49:04] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-10-27 18:49:05] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-10-27 18:49:05] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-10-27 18:49:05] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-10-27 18:49:05] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-10-27 18:49:05] 
+[2016-11-05 05:33:13] Executing startup tasks
+[2016-11-05 05:33:14] Product self.product.version
+[2016-11-05 05:33:14] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-05 05:33:14] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-05 05:33:14] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-05 05:33:14] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-05 05:33:14] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-05 05:33:14] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-05 05:33:14] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-05 05:33:14] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-05 05:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-05 05:33:16] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-05 05:33:16] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-05 05:33:16] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-05 05:33:16] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-05 05:33:17] 
+[2016-11-07 09:24:22] Executing startup tasks
+[2016-11-07 09:24:23] Product self.product.version
+[2016-11-07 09:24:23] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-07 09:24:23] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-07 09:24:23] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-07 09:24:24] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-07 09:24:24] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-07 09:24:24] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-07 09:24:24] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-07 09:24:24] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-07 09:24:27] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-07 09:24:28] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-07 09:24:28] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-07 09:24:28] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-07 09:24:28] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-07 09:24:28] 
+[2016-11-07 15:47:07] Executing startup tasks
+[2016-11-07 15:47:12] Product self.product.version
+[2016-11-07 15:47:12] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-07 15:47:12] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-07 15:47:12] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-07 15:47:13] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-07 15:47:13] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-07 15:47:14] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-07 15:47:14] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-07 15:47:14] 
+[2016-11-08 16:33:12] Executing startup tasks
+[2016-11-08 16:33:14] Product self.product.version
+[2016-11-08 16:33:14] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-08 16:33:14] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-08 16:33:14] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-08 16:33:14] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-08 16:33:14] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-08 16:33:14] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-08 16:33:14] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-08 16:33:15] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-08 16:33:15] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-08 16:33:15] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-08 16:33:15] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-08 16:33:15] 
+[2016-11-09 15:18:21] Executing startup tasks
+[2016-11-09 15:18:28] Product self.product.version
+[2016-11-09 15:18:28] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-09 15:18:28] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-09 15:18:28] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-09 15:18:29] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-09 15:18:29] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-09 15:18:29] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-09 15:18:29] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-09 15:18:29] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-09 15:18:29] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-09 15:18:30] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-09 15:18:30] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-09 15:18:30] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-09 15:18:30] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-09 15:18:30] 
+[2016-11-09 17:28:27] Executing startup tasks
+[2016-11-09 17:28:30] Product self.product.version
+[2016-11-09 17:28:30] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-09 17:28:30] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-09 17:28:30] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-09 17:28:30] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-09 17:28:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-09 17:28:34] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-09 17:28:34] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-09 17:28:35] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-09 17:28:35] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-09 17:28:36] 
+[2016-11-18 15:06:04] Executing startup tasks
+[2016-11-18 15:06:06] Product self.product.version
+[2016-11-18 15:06:06] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-18 15:06:06] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-18 15:06:06] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-18 15:06:06] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-18 15:06:06] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-18 15:06:06] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-18 15:06:06] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-18 15:06:06] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-18 15:06:07] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-18 15:06:07] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-18 15:06:07] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-18 15:06:07] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-18 15:06:08] 
+[2016-11-18 16:03:25] Executing startup tasks
+[2016-11-18 16:03:26] Product self.product.version
+[2016-11-18 16:03:26] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-18 16:03:26] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-18 16:03:26] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-18 16:03:26] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-18 16:03:26] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-18 16:03:26] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-18 16:03:26] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-18 16:03:26] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-18 16:03:27] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-18 16:03:28] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-18 16:03:28] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-18 16:03:28] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-18 16:03:28] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-18 16:03:28] 
+[2016-11-26 12:17:57] Executing startup tasks
+[2016-11-26 12:17:59] Product self.product.version
+[2016-11-26 12:17:59] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-26 12:17:59] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-26 12:17:59] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-11-26 12:17:59] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-11-26 12:18:00] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-11-26 12:18:00] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-11-26 12:18:00] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-11-26 12:18:00] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-11-26 12:18:00] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-11-26 12:18:01] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-11-26 12:18:01] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-11-26 12:18:01] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-11-26 12:18:01] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-11-26 12:18:01] 
+[2016-12-05 15:47:59] Executing startup tasks
+[2016-12-05 15:48:04] Product self.product.version
+[2016-12-05 15:48:04] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-05 15:48:04] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-05 15:48:04] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-05 15:48:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-12-05 15:48:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-05 15:48:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-12-05 15:48:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-12-05 15:48:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-12-05 15:48:05] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-05 15:48:06] 
+[2016-12-08 11:43:31] Executing startup tasks
+[2016-12-08 11:43:33] Product self.product.version
+[2016-12-08 11:43:33] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-08 11:43:33] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-08 11:43:33] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-08 11:43:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-12-08 11:43:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-08 11:43:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-12-08 11:43:33] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-08 11:43:34] 
+[2016-12-08 11:51:35] Executing startup tasks
+[2016-12-08 11:51:36] Product self.product.version
+[2016-12-08 11:51:36] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-08 11:51:36] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-08 11:51:36] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-08 11:51:36] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-12-08 11:51:36] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-08 11:51:37] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-12-08 11:51:39] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-12-08 11:51:39] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-12-08 11:51:39] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-12-08 11:51:39] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-12-08 11:51:39] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-12-08 11:51:39] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-12-08 11:51:39] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-12-08 11:51:39] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-12-08 11:51:40] 
+[2016-12-09 17:21:53] Executing startup tasks
+[2016-12-09 17:22:01] Product self.product.version
+[2016-12-09 17:22:01] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-09 17:22:01] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-09 17:22:01] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-09 17:22:01] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-12-09 17:22:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-09 17:22:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-12-09 17:22:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-12-09 17:22:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-12-09 17:22:02] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-09 17:22:02] 
+[2016-12-13 10:29:20] Executing startup tasks
+[2016-12-13 10:29:21] Product self.product.version
+[2016-12-13 10:29:21] Bundle org.eclipse.oomph.setup 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-13 10:29:21] Bundle org.eclipse.oomph.setup.core 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-13 10:29:21] Bundle org.eclipse.oomph.setup.p2 1.3.0.v20160213-0953, build=2199, branch=7194e06d06a87ced95779121a8281b59b9abdf81, commit=7194e06d06a87ced95779121a8281b59b9abdf81
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.debug.ui/Console.highWaterMark = 1000007999
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.debug.ui/Console.lowWaterMark = 999999999
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.jdt.core/M2_REPO = C:/Users/jbravo/.m2/repository
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.M2_REPO = D:/repositorio
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime = apache-maven-3.2.3
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimes = apache-maven-3.2.3
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/location = D:\apache-maven-3.2.3
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.runtimesNodes/apache-maven-3.2.3/type = EXTERNAL
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile = D:\apache-maven-3.2.3\conf\settings.xml
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.core/eclipse.m2.WorkspacelifecycleMappingsLocation = D:/SEED-WS/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates = <?xml version="1.0" encoding="UTF-8" standalone="no"?><templates/>
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled = true
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled = true
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled = true
+[2016-12-13 10:29:22] Performing Preference /instance/org.eclipse.wst.server.core/runtimes = <?xml version="1.0" encoding="UTF-8" standalone="no"?>...
+[2016-12-13 10:29:22] <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runtimes/>
+
+[2016-12-13 10:29:22] Performing Preference /instance/org.jboss.tools.maven.core/nexusRepositories = <?xml version="1.0" encoding="UTF-8"?>...
+[2016-12-13 10:29:22] <?xml version="1.0" encoding="UTF-8"?>
+<nexusRepositories>
+<nexusRepository enabled="true" name="JBoss Nexus Repository" url="https://repository.jboss.org/nexus"/>
+<nexusRepository enabled="true" name="Sonatype Nexus Repository" url="http://repository.sonatype.org"/>
+<nexusRepository enabled="true" name="Apache Nexus Repository" url="https://repository.apache.org"/>
+<nexusRepository enabled="false" name="Sonatype OSS Repository" url="http://oss.sonatype.org"/>
+<nexusRepository enabled="true" name="Codehaus Repository" url="https://nexus.codehaus.org"/>
+<nexusRepository enabled="false" name="Java.net Repository" url="https://maven.java.net"/>
+</nexusRepositories>
+[2016-12-13 10:29:22] 

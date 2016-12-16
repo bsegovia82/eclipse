@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='update site: http://master.dl.sourceforge.net/project/sapnweclipse/updates/' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1468874555820'/>
+    <property name='eclipse.p2.force.threading' value='true'/>
+    <property name='site.checksum' value='2916600059'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='49'>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core.nw7' version='0.6.0.200912021058'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core.nw7_0.6.0.200912021058.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.6.2.201004151946'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.6.2.201004151946.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.6.3.201004231243'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.6.3.201004231243.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.7.0.201005031829'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.7.0.201005031829.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.5.0.200909151631'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.5.0.200909151631.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.7.1.201005191610'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.7.1.201005191610.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.4.1.200907211842'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.4.1.200907211842.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.axis.proxy' version='0.1.0.200907211842'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.axis.proxy_0.1.0.200907211842.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.codec' version='1.3.0.v20080530-1600'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://download.eclipse.org/tools/orbit/downloads/drops/R20100114021427/bundles/org.apache.commons.codec_1.3.0.v20080530-1600.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.7.0.201005031829'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.7.0.201005031829.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.7.0.201005031829'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.7.0.201005031829.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.codec' version='1.2.0.v200706111724'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://archive.eclipse.org/tools/orbit/downloads/drops/R200709171314/bundles/org.apache.commons.codec_1.2.0.v200706111724.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.6.3.201004231243'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.6.3.201004231243.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.4.1.200907211842'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.4.1.200907211842.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.6.1.201004082044'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.6.1.201004082044.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core.nw7' version='0.7.2.201006211643'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core.nw7_0.7.2.201006211643.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.httpclient' version='3.1.0.v20080605-1935'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://download.eclipse.org/tools/orbit/downloads/drops/R20100114021427/bundles/org.apache.commons.httpclient_3.1.0.v20080605-1935.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.compatibility.feature' version='0.1.0.201005191610'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.compatibility.feature_0.1.0.201005191610.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core.nw7' version='0.7.1.201005191610'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core.nw7_0.7.1.201005191610.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.4.0.200907211842'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.4.0.200907211842.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.6.1.201004082044'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.6.1.201004082044.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core.nw7' version='0.7.0.201005031829'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core.nw7_0.7.0.201005031829.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.5.1.200910061011'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.5.1.200910061011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.7.2.201006211643'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.7.2.201006211643.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core.nw7' version='0.6.2.201004151946'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core.nw7_0.6.2.201004151946.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.5.1.200911041554'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.5.1.200911041554.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.5.0.200909151631'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.5.0.200909151631.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.6.0.200912021058'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.6.0.200912021058.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.7.1.201005191610'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.7.1.201005191610.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.axis.proxy' version='0.1.1.200909151631'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.axis.proxy_0.1.1.200909151631.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core.nw7' version='0.6.1.201004082044'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core.nw7_0.6.1.201004082044.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.5.0.200909151631'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.0.200909151631.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.4.2.200908121739'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.4.2.200908121739.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.logging' version='1.0.4.v200706111724'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://archive.eclipse.org/tools/orbit/downloads/drops/R200709171314/bundles/org.apache.commons.logging_1.0.4.v200706111724.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.httpclient' version='3.0.1.v200706111724'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://archive.eclipse.org/tools/orbit/downloads/drops/R200709171314/bundles/org.apache.commons.httpclient_3.0.1.v200706111724.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.6.2.201004151946'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.6.2.201004151946.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.axis.proxy' version='0.2.0.201005031829'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.axis.proxy_0.2.0.201005031829.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.7.2.201006211643'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.7.2.201006211643.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.6.0.200912021058'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.6.0.200912021058.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.5.1.200910061011'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.1.200910061011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.axis.proxy' version='0.1.0.200908121739'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.axis.proxy_0.1.0.200908121739.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.4.2.200908121739'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.4.2.200908121739.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.proxyutil' version='0.1.0.201005191610'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.proxyutil_0.1.0.201005191610.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.sap.netweaver.porta.ide.eclipse.feature' version='0.5.2.200911041554'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.2.200911041554.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.5.2.200911041554'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.5.2.200911041554.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.5.0.200910061011'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.5.0.200910061011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.core' version='0.4.1.200908121739'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.core_0.4.1.200908121739.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse.axis.proxy' version='0.1.1.200910061011'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse.axis.proxy_0.1.1.200910061011.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.sap.netweaver.porta.ide.eclipse' version='0.6.0.200912021058'>
+      <repositoryProperties size='1'>
+        <property name='artifact.reference' value='http://downloads.sourceforge.net/project/sapnweclipse/updates/plugins/com.sap.netweaver.porta.ide.eclipse_0.6.0.200912021058.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

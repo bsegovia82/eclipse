@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository 
+     name='m2e-wtp 1.3.x Neon Release repository'    
+     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' 
+     version='1.0.0'>
+
+  <properties size='1'>
+    <property name='p2.timestamp' value='27'/>
+  </properties>
+
+  <children size='3'>
+    <!-- add new versions here -->
+    <child location='1.3.1.20160831-1005' />
+    <child location='1.3.0.20160530-2310' />
+    <child location='http://download.eclipse.org/technology/m2e/releases/1.7/'/>
+  </children>
+
+</repository>

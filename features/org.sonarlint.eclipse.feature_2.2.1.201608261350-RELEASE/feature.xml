@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.sonarlint.eclipse.feature"
+      label="%feature_name"
+      version="2.2.1.201608261350-RELEASE"
+      provider-name="%provider_name"
+      plugin="org.sonarlint.eclipse.ui">
+
+   <description url="http://www.sonarlint.org/">
+      %description
+   </description>
+
+   <copyright url="http://www.sonarlint.org/">
+      %copyright
+   </copyright>
+
+   <license url="http://www.gnu.org/licenses/lgpl.txt">
+      %license
+   </license>
+
+   <plugin
+         id="org.sonarlint.eclipse.core"
+         download-size="13283"
+         install-size="13906"
+         version="2.2.1.201608261350-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonarlint.eclipse.ui"
+         download-size="214"
+         install-size="408"
+         version="2.2.1.201608261350-RELEASE"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonarsource.sonarlint.core.sonarlint-client-api"
+         download-size="47"
+         install-size="80"
+         version="2.4.1"
+         unpack="false"/>
+
+   <plugin
+         id="org.sonarsource.sonarlint.core.sonarlint-core"
+         download-size="19892"
+         install-size="36473"
+         version="2.4.1"
+         unpack="false"/>
+
+</feature>
